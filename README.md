@@ -56,10 +56,10 @@ I'm always open to collaborating on interesting projects and ideas. Feel free to
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tiptopy&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/✨-Thanks%20for%20visiting!-blue?style=for-the-badge">
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tiptopy&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
