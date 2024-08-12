@@ -2,6 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F700&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner;Tech+Evangelist)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</p>
+
+---
+
+<p align="center">
+  <b>"In code, we trust. In learning, we grow."</b>
+</p>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=tiptopywafula&color=blue)
 
 ## About Me
