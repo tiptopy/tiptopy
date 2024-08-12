@@ -6,13 +6,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 </p>
 
----
-
-<p align="center">
-  <b>"In code, we trust. In learning, we grow."</b>
-</p>
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tiptopywafula&color=blue)
 
@@ -23,6 +16,14 @@ I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, an
 - **Languages:** C, C++, Python, PHP, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** Laravel, Vue.js, React.js, Flutter
 - **Other Interests:** Tech Blogging, Public Speaking, Mentorship
+
+---
+
+<p align="center">
+  <b>"In code, we trust. In learning, we grow."</b>
+</p>
+
+---
 
 ## Connect with Me
 
