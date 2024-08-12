@@ -2,11 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F700&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner;Tech+Evangelist)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-</p>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tiptopywafula&color=blue)
 
 ## About Me
@@ -25,14 +20,30 @@ I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, an
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 
-- **Email:** [connect@tiptopy.co.ke](mailto:connect@tiptopy.co.ke)
-- **Website:** [tiptopy.co.ke](https://tiptopy.co.ke)
-- **Twitter/X:** [@Tiptopycodes](https://x.com/Tiptopycodes)
-- **Instagram:** [@tiptopy.codes](https://www.instagram.com/tiptopy.codes/)
-- **TikTok:** [@officialtiptopy](https://www.tiktok.com/@officialtiptopy)
-- **Pinterest:** [@tiptopy](https://www.pinterest.com/tiptopy/)
+<p align="center">
+  <a href="mailto:connect@tiptopy.co.ke">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Tiptopycodes">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tiptopy.codes/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.pinterest.com/tiptopy/">
+    <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@officialtiptopy">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://tiptopy.co.ke">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## Skills
 
