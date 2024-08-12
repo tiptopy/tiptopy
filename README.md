@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F700&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner;Tech+Evangelist)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tiptopywafula&color=blue)
 
 ## About Me
 
@@ -56,6 +55,8 @@ I'm always open to collaborating on interesting projects and ideas. Feel free to
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=tiptopywafula&color=blue)
 
 <p align="center">
   <img src="https://img.shields.io/badge/✨-Thanks%20for%20visiting!-blue?style=for-the-badge">
