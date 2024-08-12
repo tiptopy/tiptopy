@@ -49,4 +49,6 @@ I'm always open to collaborating on interesting projects and ideas. Feel free to
 
 ---
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/✨-Thanks%20for%20visiting!-blue?style=for-the-badge">
+</p>
