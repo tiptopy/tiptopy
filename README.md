@@ -2,12 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F700&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner;Tech+Evangelist;Passionate+Problem+Solver)
 
-
 ## About Me
 
 I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, and Lifelong Learner. I love building innovative solutions and contributing to the tech community. Here are some of the technologies I work with:
 
-- **Languages:** C, C++, Python, PHP, JavaScript, HTML, CSS
+- **Languages:** C, C++, Python, PHP, Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** Laravel, Vue.js, React.js, Flutter
 - **Other Interests:** Tech Blogging, Public Speaking, Mentorship
 
@@ -34,6 +33,7 @@ I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, an
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
