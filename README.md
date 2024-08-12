@@ -35,17 +35,6 @@ I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, an
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## GitHub Stats
-
-![Tiptopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiptopywafula&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiptopywafula&layout=compact&theme=radical)
-
-## Recent Projects
-
-- **[Project 1](https://github.com/tiptopywafula/project1):** Description of project 1.
-- **[Project 2](https://github.com/tiptopywafula/project2):** Description of project 2.
-- **[Project 3](https://github.com/tiptopywafula/project3):** Description of project 3.
-
 ## Fun Facts
 
 - 🌱 I’m currently learning advanced React and TypeScript.
@@ -60,4 +49,4 @@ I'm always open to collaborating on interesting projects and ideas. Feel free to
 
 ---
 
-*This README was generated with ❤️ by [GitHub Copilot](https://github.com/github/copilot)*
+
