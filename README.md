@@ -12,6 +12,7 @@
   <b>"In code, we trust. In learning, we grow."</b>
 </p>
 
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tiptopywafula&color=blue)
 
