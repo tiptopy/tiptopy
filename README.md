@@ -7,7 +7,7 @@
 I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, and Lifelong Learner. I love building innovative solutions and contributing to the tech community. Here are some of the technologies I work with:
 
 - **Languages:** C, C++, Python, PHP, Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Laravel, Vue.js, React.js, Flutter
+- **Frameworks & Libraries:** Laravel, Django, Vue.js, React.js, Flutter
 - **Other Interests:** Tech Blogging, Public Speaking, Mentorship
 
 ---
@@ -38,6 +38,7 @@ I'm Tiptopy Wafula, a passionate Fullstack Developer, Open-source Enthusiast, an
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
