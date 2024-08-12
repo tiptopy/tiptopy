@@ -1,35 +1,51 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tiptopy Wafula 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner)
 
-![Profile views](https://gpvc.arturio.dev/[YourUsername])
+---
 
 ## About Me
 
-I am a passionate Full-Stack Developer with experience in building web applications using JavaScript, React, Node.js, and other modern technologies. I love contributing to open-source projects and continuously learning new things.
+I am a passionate Fullstack Developer with a love for open-source projects and continuous learning. I enjoy building web applications and exploring new technologies. Here are a few things about me:
+
+- 🌱 I’m currently learning new frameworks and tools.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about web development, open-source, and tech in general.
+- 📫 How to reach me: connect@tiptopy.co.ke
+
+---
 
 ## Skills
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+### Languages & Frameworks
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## Projects
-
-- [**Project 1**](https://github.com/[YourUsername]/project1): A brief description of what this project does.
-- [**Project 2**](https://github.com/[YourUsername]/project2): A brief description of what this project does.
-- [**Project 3**](https://github.com/[YourUsername]/project3): A brief description of what this project does.
+---
 
 ## Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter](https://twitter.com/yourprofile)
+- 📧 Email: [connect@tiptopy.co.ke](mailto:connect@tiptopy.co.ke)
+- 🌐 Website: [tiptopy.co.ke](https://tiptopy.co.ke)
 
-## Let's Connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/yourusername)
+## Social Media
 
-![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Tiptopycodes)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tiptopy.codes/)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@officialtiptopy)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/tiptopy/)
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tiptopy.tiptopy)
