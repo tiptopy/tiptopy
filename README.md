@@ -1,6 +1,6 @@
 # Hi there, I'm Tiptopy Wafula 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F700&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner;Tech+Evangelist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F700&width=435&lines=Fullstack+Developer;Open-source+Enthusiast;Lifelong+Learner;Tech+Evangelist;Passionate+Problem+Solver)
 
 
 ## About Me
